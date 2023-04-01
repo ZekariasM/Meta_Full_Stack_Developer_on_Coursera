@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introduction to Front-End & Back-End Development
 
 ## About this Course
@@ -42,5 +41,4 @@ In this module you will learn how to construct HTML documents and add basic styl
 In this module you will learn how to use the Bootstrap framework to build responsive interfaces and the benefits of working with UI frameworks.
 
 ### WEEK 4: End-of-Course Graded Assessment
->>>>>>> 10668c889bf5ea99dde68da56871f6c27f7af52d
 In this module, you will be assessed on the key skills covered in the Course.
